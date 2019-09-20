@@ -7,4 +7,4 @@ Selebihnya belajar dari Youtube yang bertebaran sangat banyak, mulai dengan memb
 
 Gabung dengan kumunitas react, ikuti meet-up atau workshop, dll 
 
-## goog luck
+## good luck and keep spirit
