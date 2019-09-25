@@ -10,4 +10,4 @@ Gabung dengan kumunitas react, ikuti meet-up atau workshop, dll
 ## good luck and keep spirit
 
 ---
-Next Tutorial [https://jscomplete.com/learn/complete-intro-react#functions-vs-classes](https://jscomplete.com/learn/complete-intro-react#functions-vs-classes)
+###### Next Tutorial [https://jscomplete.com/learn/complete-intro-react#functions-vs-classes](https://jscomplete.com/learn/complete-intro-react#functions-vs-classes)
